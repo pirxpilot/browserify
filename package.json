@@ -89,5 +89,10 @@
   "scripts": {
     "test": "tap test/*.js"
   },
+  "files": [
+    "index.js",
+    "bin",
+    "lib"
+  ],
   "license": "MIT"
 }
