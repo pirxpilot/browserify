@@ -23,6 +23,7 @@
     "javascript"
   ],
   "dependencies": {
+    "@pirxpilot/module-deps": "^6.3.1",
     "JSONStream": "^1.0.3",
     "assert": "^1.4.0",
     "browser-pack": "^6.0.1",
@@ -47,7 +48,6 @@
     "insert-module-globals": "^7.0.0",
     "labeled-stream-splicer": "^2.0.0",
     "mkdirp": "^0.5.0",
-    "module-deps": "^6.0.0",
     "os-browserify": "~0.3.0",
     "parents": "^1.0.1",
     "path-browserify": "~0.0.0",
