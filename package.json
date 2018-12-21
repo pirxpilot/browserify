@@ -1,18 +1,12 @@
 {
-  "name": "browserify",
+  "name": "@pirxpilot/browserify",
   "version": "16.2.3",
   "description": "browser-side require() the node way",
   "main": "index.js",
   "bin": {
     "browserify": "bin/cmd.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/browserify/browserify.git"
-  },
-  "engines": {
-    "node": ">= 0.8"
-  },
+  "repository": "pirxpilot/browserify",
   "keywords": [
     "browser",
     "require",
