@@ -1,3 +1,11 @@
+
+# 16.3.0
+
+ * rename to @pirxpilot/browserify
+ * add support for --transform-path option
+ * stop using deprecated Buffer constructor
+ * upgrade concat-stream through2 coffescript coffeeify tap
+
 # 16.2.3
 
 add empty stub for the `inspector` builtin module.
