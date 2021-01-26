@@ -1,18 +1,12 @@
 {
-  "name": "browserify",
+  "name": "@pirxpilot/browserify",
   "version": "17.0.0",
   "description": "browser-side require() the node way",
   "main": "index.js",
   "bin": {
     "browserify": "bin/cmd.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/browserify/browserify.git"
-  },
-  "engines": {
-    "node": ">= 0.8"
-  },
+  "repository": "pirxpilot/browserify",
   "keywords": [
     "browser",
     "require",
@@ -95,5 +89,10 @@
   "scripts": {
     "test": "tap test/*.js"
   },
+  "files": [
+    "index.js",
+    "bin",
+    "lib"
+  ],
   "license": "MIT"
 }
